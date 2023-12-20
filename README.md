@@ -16,4 +16,4 @@ Python, pandas, numpy, seaborn, pingouin, api Yandex
 
 
 ### Results:
-	I recommend implementing new form of payment to the website due to fact that we’ve got stat. Significant improvements of ARPPU between 2 groups - which indicates increase in average check of paying customers.
+I recommend implementing new form of payment to the website due to fact that we’ve got stat. Significant improvements of ARPPU between 2 groups - which indicates increase in average check of paying customers.
